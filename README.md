@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React-Renting-house
 React Implementing a rental page with React
 =======
@@ -203,3 +204,6 @@ npm install --save axios
 ## 打包项目
 npm run build
 >>>>>>> origin/master
+=======
+
+>>>>>>> 3f2e73bc57c4248426e589fbc0b47839a3d57ffc
